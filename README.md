@@ -10,7 +10,7 @@
 | `id` | string | 是 | 小说 ID |
 | `orator` | string | 是 | 播音作者 |
 | `source` | string | 是 | 音频资源来源 |
-| `maintainer` | string | 是 | 数据维护人员（格式：名 <邮>） |
+| `maintainer` | string | 是 | 数据维护人员（格式：**名** 或 **名 <邮>**） |
 | `done` | boolean | 是 | 数据整理状态 |
 | `ps` | string | 否 | 维护人员备注 |
 | `updated` | string | 是 | 数据最近更新日期（格式：**yyyyMMdd**） |

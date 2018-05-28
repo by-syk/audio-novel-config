@@ -27,5 +27,5 @@
 | | |
 | `url` | 音频资源 URL |
 | `id` | 资源 ID（用于本地缓存区分资源） |
-| `start` | 音频截取开始时间（格式：**HH:mm:ss.ss**） |
-| `end` | 音频截取结束时间（格式：**HH:mm:ss.ss**） |
+| `start` | 音频截取开始时间（Premiere 格式） |
+| `end` | 音频截取结束时间（Premiere 格式） |

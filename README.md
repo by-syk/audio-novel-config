@@ -15,6 +15,8 @@
 | `updated` | string | 是 | 数据最近更新日期（格式：**yyyyMMdd**） |
 | `res` | string | 是 | 小说章节数据 URL |
 
+> Demo：[novels.json](novels.json)
+
 ### novels/xxx.json 小说章节数据
 
 | JSON 字段 | 类型 | 必须 | 描述 |
@@ -31,3 +33,5 @@
 | `format` | string | 是 | 资源文件格式（如 `.m4a`） |
 | `start` | string | 否 | 音频截取开始时间（Premiere 格式），如无或空则为整段音频开始时间 |
 | `end` | string | 否 | 音频截取结束时间（Premiere 格式），如无或空则为整段音频结束时间 |
+
+> Demo：[the-kings-avatar.json](novels/the-kings-avatar.json)

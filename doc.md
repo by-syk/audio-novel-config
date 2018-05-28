@@ -21,7 +21,7 @@
 | JSON 字段 | 类型 | 必须 | 描述 |
 | :--: | :--: | :--: | :-- |
 | `total` | integer | 是 | 章节数 |
-| `audioformat` | string | 是 | 默认音频资源文件格式（如 `.m4a`） |
+| `resformat` | string | 是 | 默认音频资源文件格式（如 `.m4a`） |
 | `chapters` | array | 是 | 章节目录数组 |
 | | | | |
 | `index` | integer | 是 | 章节序号 |

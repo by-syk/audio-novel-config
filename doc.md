@@ -21,6 +21,7 @@
 | JSON 字段 | 类型 | 必须 | 描述 |
 | :--: | :--: | :--: | :-- |
 | `total` | integer | 是 | 章节数 |
+| `audioformat` | string | 是 | 默认音频资源文件格式（如 `.m4a`） |
 | `chapters` | array | 是 | 章节目录数组 |
 | | | | |
 | `index` | integer | 是 | 章节序号 |
@@ -29,8 +30,8 @@
 | | | | |
 | `url` | string | 是 | 音频资源 URL |
 | `id` | string | 是 | 资源 ID（用于本地缓存区分资源） |
-| `format` | string | 是 | 资源文件格式（如 `.m4a`） |
-| `start` | string | 否 | 音频截取开始时间（Premiere 格式），如无或空则为整段音频开始时间 |
-| `end` | string | 否 | 音频截取结束时间（Premiere 格式），如无或空则为整段音频结束时间 |
+| `format` | string | 否 | 资源文件格式（若无则与默认一致） |
+| `start` | string | 否 | 音频截取开始时间（Premiere 格式），若无或空则为整段音频开始时间 |
+| `end` | string | 否 | 音频截取结束时间（Premiere 格式），若无或空则为整段音频结束时间 |
 
 > Demo：[the-kings-avatar.json](novels/the-kings-avatar.json)

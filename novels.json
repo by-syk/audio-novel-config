@@ -7,6 +7,7 @@
       "source": "蜻蜓FM",
       "maintainer": "By_syk <By_syk@163.com>",
       "done": false,
+      "ps": "子慕播音版章节与原小说不同步，此数据已整理同步章节。",
       "updated": "20180528",
       "res": "https://github.com/by-syk/audio-novel-config/raw/master/novels/the-kings-avatar.json"
     }

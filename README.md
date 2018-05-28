@@ -1,3 +1,3 @@
 # audio-novel-config
 
-[文档](doc.md)
+document [here](doc.md)

@@ -23,6 +23,18 @@
       "res": "https://github.com/by-syk/audio-novel-config/raw/master/novels/the-three-body-problem/data.json",
       "cover": "https://github.com/by-syk/audio-novel-config/raw/master/novels/the-three-body-problem/cover.jpg",
       "updated": "20180611"
+    },
+    {
+      "name": "盗墓笔记",
+      "id": "thegraverrobberschronicles",
+      "orator": "周建龙",
+      "source": "喜马拉雅FM",
+      "maintainer": "By_syk <By_syk@163.com>",
+      "done": false,
+      "ps": "仅供测试",
+      "res": "https://github.com/by-syk/audio-novel-config/raw/master/novels/the-graver-robbers-chronicles/data.json",
+      "cover": "https://github.com/by-syk/audio-novel-config/raw/master/novels/the-graver-robbers-chronicles/cover.jpg",
+      "updated": "20180611"
     }
   ]
 }

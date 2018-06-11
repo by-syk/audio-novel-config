@@ -11,6 +11,18 @@
       "res": "https://github.com/by-syk/audio-novel-config/raw/master/novels/the-kings-avatar/data.json",
       "cover": "https://github.com/by-syk/audio-novel-config/raw/master/novels/the-kings-avatar/cover.jpg",
       "updated": "20180611"
+    },
+    {
+      "name": "三体",
+      "id": "thethreebodyproblem",
+      "orator": "大力",
+      "source": "听中国",
+      "maintainer": "By_syk <By_syk@163.com>",
+      "done": false,
+      "ps": "仅供测试",
+      "res": "https://github.com/by-syk/audio-novel-config/raw/master/novels/the-three-body-problem/data.json",
+      "cover": "https://github.com/by-syk/audio-novel-config/raw/master/novels/the-three-body-problem/cover.jpg",
+      "updated": "20180611"
     }
   ]
 }

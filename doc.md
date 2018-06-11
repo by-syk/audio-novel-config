@@ -11,10 +11,11 @@
 | `maintainer` | string | 是 | 数据维护人员（格式：“名”或“名 <邮>”） |
 | `done` | boolean | 是 | 数据整理状态 |
 | `ps` | string | 否 | 维护人员备注 |
-| `updated` | string | 是 | 数据最近更新日期（格式：“yyyyMMdd”） |
 | `res` | string | 是 | 小说章节数据 URL |
+| `cover` | string | 否 | 小说封面图片 URL |
+| `updated` | string | 是 | 数据最近更新日期（格式：“yyyyMMdd”） |
 
-> Demo：[novels.json](novels.json)
+> Demo：[novels.json](novels/data.json)
 
 ### novels/xxx.json 小说章节数据
 
@@ -34,4 +35,4 @@
 | `start` | string | 否 | 音频截取开始时间（Premiere 格式），若无或空则为整段音频开始时间 |
 | `end` | string | 否 | 音频截取结束时间（Premiere 格式），若无或空则为整段音频结束时间 |
 
-> Demo：[the-kings-avatar.json](novels/the-kings-avatar.json)
+> Demo：[the-kings-avatar.json](novels/the-kings-avatar/data.json)

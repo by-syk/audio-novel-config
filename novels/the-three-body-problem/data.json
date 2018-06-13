@@ -3,6 +3,18 @@
   "resformat": ".mp3",
   "chapters": [
     {
+      "index": 1,
+      "name": "疯狂年代"
+    },
+    {
+      "index": 2,
+      "name": "寂静的春天"
+    },
+    {
+      "index": 3,
+      "name": "红岸之一"
+    },
+    {
       "index": 4,
       "name": "三十八年后",
       "res": [

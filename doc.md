@@ -27,7 +27,7 @@
 | | | | |
 | `index` | integer | 是 | 章节序号 |
 | `name` | string | 是 | 章节名 |
-| `res` | array | 是 | 分段音频资源数组 |
+| `res` | array | 否 | 分段音频资源数组，若无则暗示资源正在整理中 |
 | | | | |
 | `url` | string | 是 | 音频资源 URL |
 | `id` | string | 是 | 资源 ID（用于本地缓存区分资源） |

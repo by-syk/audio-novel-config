@@ -10,19 +10,19 @@
       "ps": "子慕播音版章节与原小说不同步，此数据已整理同步章节。音频资源来自蜻蜓FM并保有版权，该数据仅作学习参考之用，请勿用于非法用途。",
       "res": "https://github.com/by-syk/audio-novel-config/raw/master/novels/the-kings-avatar/data.json",
       "cover": "https://github.com/by-syk/audio-novel-config/raw/master/novels/the-kings-avatar/cover.jpg",
-      "updated": "20180611"
+      "updated": "20180613"
     },
     {
       "name": "三体",
       "id": "thethreebodyproblem",
       "orator": "大力",
-      "source": "听中国",
+      "source": "博听网",
       "maintainer": "By_syk <By_syk@163.com>",
       "done": false,
       "ps": "仅供测试",
       "res": "https://github.com/by-syk/audio-novel-config/raw/master/novels/the-three-body-problem/data.json",
       "cover": "https://github.com/by-syk/audio-novel-config/raw/master/novels/the-three-body-problem/cover.jpg",
-      "updated": "20180611"
+      "updated": "20180613"
     },
     {
       "name": "盗墓笔记",

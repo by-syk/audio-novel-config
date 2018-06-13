@@ -27,6 +27,7 @@
 | | | | |
 | `index` | integer | 是 | 章节序号 |
 | `name` | string | 是 | 章节名 |
+| `book` | string | 否 | 小说存在多部的情况下用于标明所属 |
 | `res` | array | 否 | 分段音频资源数组，若无则暗示资源正在整理中 |
 | | | | |
 | `url` | string | 是 | 音频资源 URL |

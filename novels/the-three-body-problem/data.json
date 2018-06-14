@@ -5,17 +5,65 @@
     {
       "index": 1,
       "name": "疯狂年代",
-      "book": "第一部 地球往事"
+      "book": "第一部 地球往事",
+      "res": [
+        {
+          "url": "http://fdt3.boting.co/file7/7/2017/2/%E4%B8%89%E4%BD%93%EF%BC%88%E5%A4%A7%E5%8A%9B%EF%BC%89/44010/v7c7a8/%E4%B8%89%E4%BD%93-%E5%A4%A7%E5%8A%9B06.mp3",
+          "id": "06",
+          "start": "00:14:25:11",
+          "end": "00:19:31:08"
+        },
+        {
+          "url": "http://fdt6.boting.co/file7/7/2017/2/%E4%B8%89%E4%BD%93%EF%BC%88%E5%A4%A7%E5%8A%9B%EF%BC%89/44010/p5n2w9/%E4%B8%89%E4%BD%93-%E5%A4%A7%E5%8A%9B07.mp3",
+          "id": "07",
+          "start": "00:01:23:02",
+          "end": "00:25:27:00"
+        },
+        {
+          "url": "http://fdt8.boting.co/file7/7/2017/2/%E4%B8%89%E4%BD%93%EF%BC%88%E5%A4%A7%E5%8A%9B%EF%BC%89/44010/j3a7t8/%E4%B8%89%E4%BD%93-%E5%A4%A7%E5%8A%9B08.mp3",
+          "id": "08",
+          "start": "00:00:09:22",
+          "end": "00:02:22:04"
+        }
+      ]
     },
     {
       "index": 2,
       "name": "寂静的春天",
-      "book": "第一部 地球往事"
+      "book": "第一部 地球往事",
+      "res": [
+        {
+          "url": "http://fdt8.boting.co/file7/7/2017/2/%E4%B8%89%E4%BD%93%EF%BC%88%E5%A4%A7%E5%8A%9B%EF%BC%89/44010/j3a7t8/%E4%B8%89%E4%BD%93-%E5%A4%A7%E5%8A%9B08.mp3",
+          "id": "08",
+          "start": "00:02:48:04",
+          "end": "00:21:55:20"
+        },
+        {
+          "url": "http://fdt7.boting.co/file7/7/2017/2/%E4%B8%89%E4%BD%93%EF%BC%88%E5%A4%A7%E5%8A%9B%EF%BC%89/44010/x4n4v8/%E4%B8%89%E4%BD%93-%E5%A4%A7%E5%8A%9B09.mp3",
+          "id": "09",
+          "start": "00:01:13:18",
+          "end": "00:25:04:06"
+        },
+        {
+          "url": "http://fdt3.boting.co/file7/7/2017/2/%E4%B8%89%E4%BD%93%EF%BC%88%E5%A4%A7%E5%8A%9B%EF%BC%89/50099/f8k7a6/%E4%B8%89%E4%BD%93-%E5%A4%A7%E5%8A%9B10.mp3",
+          "id": "10",
+          "start": "00:00:15:02",
+          "end": "00:02:30:08"
+        }
+      ]
     },
     {
       "index": 3,
       "name": "红岸之一",
-      "book": "第一部 地球往事"
+      "book": "第一部 地球往事",
+      "res": [
+        {
+          "url": "http://fdt3.boting.co/file7/7/2017/2/%E4%B8%89%E4%BD%93%EF%BC%88%E5%A4%A7%E5%8A%9B%EF%BC%89/50099/f8k7a6/%E4%B8%89%E4%BD%93-%E5%A4%A7%E5%8A%9B10.mp3",
+          "id": "10",
+          "start": "00:02:31:06",
+          "end": "00:19:49:16"
+        }
+      ]
     },
     {
       "index": 4,
@@ -121,12 +169,40 @@
     {
       "index": 9,
       "name": "宇宙闪烁",
-      "book": "第一部 地球往事"
+      "book": "第一部 地球往事",
+      "res": [
+        {
+          "url": "http://fdt3.boting.co/file7/7/2017/2/%E4%B8%89%E4%BD%93%EF%BC%88%E5%A4%A7%E5%8A%9B%EF%BC%89/44010/v7c7a8/%E4%B8%89%E4%BD%93-%E5%A4%A7%E5%8A%9B06.mp3",
+          "id": "06",
+          "start": "00:09:17:14",
+          "end": "00:14:13"20"
+        },
+        {
+          "url": "http://fdt7.boting.co/file7/7/2017/2/%E4%B8%89%E4%BD%93%EF%BC%88%E5%A4%A7%E5%8A%9B%EF%BC%89/50099/h3k5p2/%E4%B8%89%E4%BD%93-%E5%A4%A7%E5%8A%9B11.mp3",
+          "id": "11",
+          "start": "00:01:00:00",
+          "end": "00:16:46:02"
+        }
+      ]
     },
     {
       "index": 10,
       "name": "大史",
-      "book": "第一部 地球往事"
+      "book": "第一部 地球往事",
+      "res": [
+        {
+          "url": "http://fdt7.boting.co/file7/7/2017/2/%E4%B8%89%E4%BD%93%EF%BC%88%E5%A4%A7%E5%8A%9B%EF%BC%89/50099/h3k5p2/%E4%B8%89%E4%BD%93-%E5%A4%A7%E5%8A%9B11.mp3",
+          "id": "11",
+          "start": "00:16:45:18",
+          "end": "00:24:25:10"
+        },
+        {
+          "url": "http://fdt1.boting.co/file7/7/2017/2/%E4%B8%89%E4%BD%93%EF%BC%88%E5%A4%A7%E5%8A%9B%EF%BC%89/50099/q4n2g3/%E4%B8%89%E4%BD%93-%E5%A4%A7%E5%8A%9B12.mp3",
+          "id": "12",
+          "start": "00:00:15:12",
+          "end": "00:08:58:06"
+        }
+      ]
     },
     {
       "index": 11,

@@ -25,7 +25,7 @@
 | `resformat` | string | 是 | 默认音频资源文件格式（如 `.m4a`） |
 | `chapters` | array | 是 | 章节目录数组 |
 | | | | |
-| `index` | integer | 是 | 章节序号 |
+| `index` | integer | 是 | 章节序号（可重复；其他章节用非正整数表示） |
 | `name` | string | 是 | 章节名 |
 | `book` | string | 否 | 小说存在多部的情况下用于标明所属 |
 | `res` | array | 否 | 分段音频资源数组，若无则暗示资源正在整理中 |

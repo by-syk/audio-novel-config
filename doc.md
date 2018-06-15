@@ -23,7 +23,7 @@
 | :--: | :--: | :--: | :-- |
 | `total` | integer | 是 | 章节数 |
 | `resformat` | string | 是 | 默认音频资源文件格式（如 `.m4a`） |
-| `chapters` | array | 是 | 章节目录数组 |
+| `chapters` | array | 是 | 章节目录数组（有序） |
 | | | | |
 | `index` | integer | 是 | 章节序号（可重复；其他章节用非正整数表示） |
 | `name` | string | 是 | 章节名 |

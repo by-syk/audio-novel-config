@@ -3,6 +3,19 @@
   "resformat": ".mp3",
   "chapters": [
     {
+      "index": 0,
+      "name": "古诗真的只能背吗？",
+      "book": "第一季",
+      "res": [
+        {
+          "url": "http://od.qingting.fm/m4a/586f096a7cb8913976a44fb3_6616269_64.m4a",
+          "id": "00",
+          "format": ".m4a",
+          "end": "00:06:33:04"
+        }
+      ]
+    },
+    {
       "index": 1,
       "name": "桃夭",
       "book": "第一季",

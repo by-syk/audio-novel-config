@@ -1,6 +1,6 @@
 {
   "total": 106,
-  "resformat": ".mp3",
+  "resformat": ".m4a",
   "chapters": [
     {
       "index": 0,
@@ -9,8 +9,7 @@
       "res": [
         {
           "url": "http://od.qingting.fm/m4a/586f096a7cb8913976a44fb3_6616269_64.m4a",
-          "id": "00",
-          "format": ".m4a",
+          "id": "586f096a7cb8913976a44fb3_6616269_64",
           "end": "00:06:33:04"
         }
       ]
@@ -21,10 +20,23 @@
       "book": "第一季",
       "res": [
         {
-          "url": "http://cdn5.lizhi.fm/audio/2016/05/16/2534346786739001862_hd.mp3",
-          "id": "01",
-          "start": "00:02:11:20",
-          "end": "00:10:10:00"
+          "url": "http://od.qingting.fm/m4a/58ce43757cb89172647fab7f_6962901_64.m4a",
+          "id": "58ce43757cb89172647fab7f_6962901_64",
+          "start": "00:01:31:20",
+          "end": "00:10:09:00"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "name": "赋得古原草送别",
+      "book": "第一季",
+      "res": [
+        {
+          "url": "http://od.qingting.fm/m4a/58ce42a97cb89172647fab7e_6962896_64.m4a",
+          "id": "58ce42a97cb89172647fab7e_6962896_64",
+          "start": "00:01:05:12",
+          "end": "00:11:58:04"
         }
       ]
     },

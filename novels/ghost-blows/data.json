@@ -1,6 +1,7 @@
 {
   "total": 355,
   "resformat": ".m4a",
+  "indexformat": "第{N}章",
   "chapters": [
     {
       "index": 0,

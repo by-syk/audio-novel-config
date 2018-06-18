@@ -2,4 +2,4 @@
 
 document [here](doc.md)
 
-client app [here](client.apk)
+client app [here](client.apk) (invitation code: `tiny`)

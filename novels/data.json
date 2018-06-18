@@ -54,7 +54,7 @@
       "orator": "郁莉",
       "source": "荔枝FM",
       "maintainer": "By_syk <By_syk@163.com>",
-      "done": false,
+      "done": true,
       "ps": "“一首古诗，几个故事，开启一段美好旅程。”节目共两季，每季50期，由媒体人郁莉演绎。剔除无关片段。音频资源来自蜻蜓FM、荔枝FM并保有版权，该数据仅作学习参考之用，请勿用于非法用途。",
       "res": "https://github.com/by-syk/audio-novel-config/raw/master/novels/yuli-poem/data.json",
       "cover": "https://i.loli.net/2018/06/16/5b24c479c5acd.jpg",

@@ -10,6 +10,7 @@
 | `source` | string | 是 | 音频资源来源 |
 | `maintainer` | string | 是 | 数据维护人员（格式：“名, …”或“名 <邮>, …”） |
 | `done` | boolean | 是 | 数据整理状态 |
+| `minmega` | float | 否 | 音频资源每分钟兆字节（mb/min） |
 | `ps` | string | 否 | 维护人员备注 |
 | `res` | string | 是 | 小说章节数据 URL |
 | `cover` | string | 否 | 小说封面图片 URL |

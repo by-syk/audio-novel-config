@@ -35,7 +35,7 @@
 | `url` | string | 是 | 音频资源 URL |
 | `id` | string | 是 | 资源 ID（用于本地缓存区分资源） |
 | `format` | string | 否 | 资源文件格式，若无则与默认一致 |
-| `start` | string | 否 | 音频截取开始时间（Premiere 格式），若无或空则为整段音频开始时间 |
-| `end` | string | 是 | 音频截取结束时间（Premiere 格式） |
+| `start` | string | 否 | 音频截取开始时间（格式：“HH:mm:ss:SSS”），若无或空则为整段音频开始时间 |
+| `end` | string | 是 | 音频截取结束时间（格式：“HH:mm:ss:SSS”） |
 
 > Demo：[the-kings-avatar.json](novels/the-kings-avatar/data.json)

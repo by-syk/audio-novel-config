@@ -1,3 +1,5 @@
+# doc v1.2.0
+
 ### novels.json 有声小说目录
 
 | JSON 字段 | 类型 | 必须 | 描述 |
@@ -9,14 +11,14 @@
 | `orator` | string | 是 | 播音作者 |
 | `source` | string | 是 | 音频资源来源 |
 | `maintainer` | string | 是 | 数据维护人员（格式：“名, …”或“名 <邮>, …”） |
-| `done` | boolean | 否 | 数据整理状态（「维护中」或「已停止」，若无则默认维护中） |
+| `done` | boolean | 否 | 数据整理状态（“维护中”或“已停止”，若无则默认维护中） |
 | `deprecated` | boolean | 否 | 可示状态（若无则默认可示） |
 | `ps` | string | 否 | 维护人员备注 |
 | `res` | string | 是 | 小说章节数据 URL |
 | `cover` | string | 否 | 小说封面图片 URL |
 | `updated` | string | 是 | 数据最近更新日期（格式：“yyyyMMdd”） |
 
-> Demo：[novels.json](novels/data.json)
+demo：[novels.json](novels/data.json)
 
 ### novels/xxx.json 小说章节数据
 
@@ -38,4 +40,13 @@
 | `start` | string | 否 | 音频截取开始时间（格式：“HH:mm:ss:SSS”），若无或空则为整段音频开始时间 |
 | `end` | string | 是 | 音频截取结束时间（格式：“HH:mm:ss:SSS”） |
 
-> Demo：[the-kings-avatar.json](novels/the-kings-avatar/data.json)
+demo：[the-kings-avatar.json](novels/the-kings-avatar/data.json)
+
+### changelog
+
++ v1.2.0
+  + added new field `deprecated` in `novels.json`
+  + modified field `done` in `novels.json`
+
++ previous version
+  + no note

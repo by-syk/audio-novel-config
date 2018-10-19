@@ -40,7 +40,7 @@ demo：[novels.json](novels/data.json)
 | `start` | string | 否 | 音频截取开始时间（格式：“HH:mm:ss:SSS”），若无或空则为整段音频开始时间 |
 | `end` | string | 是 | 音频截取结束时间（格式：“HH:mm:ss:SSS”） |
 
-demo：[the-kings-avatar.json](novels/the-kings-avatar/data.json)
+demo：[the-kings-avatar.json](novels/thekingsavatar/data.json)
 
 ### changelog
 

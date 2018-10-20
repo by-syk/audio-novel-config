@@ -9,7 +9,7 @@
       "ps": "蝴蝶兰原著。与原著章节同步并剔除无关片段（小说1728章，音频1105集）。音频资源来自蜻蜓FM并保有版权，该数据仅作学习参考之用，请勿用于非法用途。",
       "res": "https://github.com/by-syk/audio-novel-config/raw/master/novels/thekingsavatar/data.json",
       "cover": "https://i.loli.net/2018/06/14/5b21b3f9cfb2c.jpg",
-      "updated": "20180828"
+      "updated": "20181020"
     },
     {
       "name": "三体",
@@ -56,6 +56,17 @@
       "res": "https://github.com/by-syk/audio-novel-config/raw/master/novels/yulipoem/data.json",
       "cover": "https://i.loli.net/2018/06/16/5b24c479c5acd.jpg",
       "updated": "20180616"
+    },
+    {
+      "name": "棋王",
+      "id": "kingofchess",
+      "orator": "王革",
+      "source": "喜马拉雅FM",
+      "maintainer": "By_syk <By_syk@163.com>",
+      "ps": "阿城原著，初刊于《上海文学》一九八四。与原著章节同步并稍加剪辑（小说共四章，音频9集）。音频资源来自喜马拉雅FM并保有版权，该数据仅作学习参考之用，请勿用于非法用途。",
+      "res": "https://github.com/by-syk/audio-novel-config/raw/master/novels/kingofchess/data.json",
+      "cover": "https://i.loli.net/2018/10/20/5bcb224b6a1cb.png",
+      "updated": "20181020"
     }
   ]
 }

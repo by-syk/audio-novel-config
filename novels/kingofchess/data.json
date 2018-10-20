@@ -1,0 +1,180 @@
+{
+  "total": 7,
+  "resformat": ".m4a",
+  "indexformat": "第{N}章",
+  "chapters": [
+    {
+      "index": 0,
+      "name": "播音序",
+      "res": [
+        {
+          "url": "http://audio.xmcdn.com/group12/M04/6D/A8/wKgDXFXw4MaCwiJlAEKJ_v6fy-8705.m4a",
+          "id": "1",
+          "end": "00:00:54.000"
+        }
+      ]
+    },
+    {
+      "index": 0,
+      "name": "背景",
+      "res": [
+        {
+          "url": "http://audio.xmcdn.com/group12/M04/6D/A8/wKgDXFXw4MaCwiJlAEKJ_v6fy-8705.m4a",
+          "id": "1",
+          "start": "00:08:35.240",
+          "end": "00:09:36.320"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "name": "",
+      "res": [
+        {
+          "url": "http://audio.xmcdn.com/group12/M04/6D/A8/wKgDXFXw4MaCwiJlAEKJ_v6fy-8705.m4a",
+          "id": "1",
+          "start": "00:00:54.000",
+          "end": "00:08:35.400"
+        },
+        {
+          "url": "http://audio.xmcdn.com/group12/M04/6D/A8/wKgDXFXw4MaCwiJlAEKJ_v6fy-8705.m4a",
+          "id": "1",
+          "start": "00:09:50.000",
+          "end": "00:17:23.000"
+        },
+        {
+          "url": "http://audio.xmcdn.com/group11/M0B/7A/B4/wKgDbVXw6eDDQqosAD3J_RKaYao177.m4a",
+          "id": "2",
+          "start": "00:00:02.640",
+          "end": "00:06:24.800"
+        },
+        {
+          "url": "http://audio.xmcdn.com/group11/M0B/7A/B4/wKgDbVXw6eDDQqosAD3J_RKaYao177.m4a",
+          "id": "2",
+          "start": "00:07:39.400",
+          "end": "00:16:05.000"
+        },
+        {
+          "url": "http://audio.xmcdn.com/group16/M03/6E/82/wKgDbFXxIG7wEGxHAD3J_W1MtHU750.m4a",
+          "id": "3",
+          "start": "00:00:12.800",
+          "end": "00:05:34.600"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "name": "",
+      "res": [
+        {
+          "url": "http://audio.xmcdn.com/group16/M03/6E/82/wKgDbFXxIG7wEGxHAD3J_W1MtHU750.m4a",
+          "id": "3",
+          "start": "00:05:34.600",
+          "end": "00:08:30.600"
+        },
+        {
+          "url": "http://audio.xmcdn.com/group16/M03/6E/82/wKgDbFXxIG7wEGxHAD3J_W1MtHU750.m4a",
+          "id": "3",
+          "start": "00:09:45.400",
+          "end": "00:16:41.080"
+        },
+        {
+          "url": "http://audio.xmcdn.com/group9/M02/6E/55/wKgDZlXxIHCyJHW2ADzd0lab63k942.m4a",
+          "id": "4",
+          "start": "00:00:09.000",
+          "end": "00:11:12.400"
+        },
+        {
+          "url": "http://audio.xmcdn.com/group9/M02/6E/55/wKgDZlXxIHCyJHW2ADzd0lab63k942.m4a",
+          "id": "4",
+          "start": "00:12:27.400",
+          "end": "00:15:50.400"
+        },
+        {
+          "url": "http://audio.xmcdn.com/group7/M06/6E/9D/wKgDX1XxIP2QEhb7AD5II9UBAVk679.m4a",
+          "id": "5",
+          "start": "00:00:04.400",
+          "end": "00:07:44.160"
+        },
+        {
+          "url": "http://audio.xmcdn.com/group7/M06/6E/9D/wKgDX1XxIP2QEhb7AD5II9UBAVk679.m4a",
+          "id": "5",
+          "start": "00:08:59.000",
+          "end": "00:16:14.160"
+        },
+        {
+          "url": "http://audio.xmcdn.com/group11/M03/7A/D2/wKgDbVXxIMihAG9oAD6HN-zRmsc169.m4a",
+          "id": "6",
+          "start": "00:00:03.320",
+          "end": "00:00:47.400"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "name": "",
+      "res": [
+        {
+          "url": "http://audio.xmcdn.com/group11/M03/7A/D2/wKgDbVXxIMihAG9oAD6HN-zRmsc169.m4a",
+          "id": "6",
+          "start": "00:00:47.400",
+          "end": "00:07:03.800"
+        },
+        {
+          "url": "http://audio.xmcdn.com/group11/M03/7A/D2/wKgDbVXxIMihAG9oAD6HN-zRmsc169.m4a",
+          "id": "6",
+          "start": "00:09:18.320",
+          "end": "00:16:17.160"
+        },
+        {
+          "url": "http://audio.xmcdn.com/group11/M03/7A/D2/wKgDbVXxIMyQx8rbAD7WbdaXA8c846.m4a",
+          "id": "7",
+          "start": "00:00:03.200",
+          "end": "00:07:17.480"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "name": "",
+      "res": [
+        {
+          "url": "http://audio.xmcdn.com/group11/M03/7A/D2/wKgDbVXxIMyQx8rbAD7WbdaXA8c846.m4a",
+          "id": "7",
+          "start": "00:08:31.800",
+          "end": "00:16:21.000"
+        },
+        {
+          "url": "http://audio.xmcdn.com/group11/M03/61/E4/wKgDa1XxIUGAasrpAEF9phAEBx8497.m4a",
+          "id": "8",
+          "start": "00:00:27.000",
+          "end": "00:07:33.000"
+        },
+        {
+          "url": "http://audio.xmcdn.com/group11/M03/61/E4/wKgDa1XxIUGAasrpAEF9phAEBx8497.m4a",
+          "id": "8",
+          "start": "00:08:47.800",
+          "end": "00:16:47.800"
+        },
+        {
+          "url": "http://audio.xmcdn.com/group10/M00/6D/C9/wKgDaVXxIVCAw4LEADgsdKTRK18050.m4a",
+          "id": "9",
+          "start": "00:05:13.400",
+          "end": "00:06:43.600"
+        }
+      ]
+    },
+    {
+      "index": 0,
+      "name": "书评",
+      "res": [
+        {
+          "url": "http://audio.xmcdn.com/group10/M00/6D/C9/wKgDaVXxIVCAw4LEADgsdKTRK18050.m4a",
+          "id": "9",
+          "start": "00:00:22.480",
+          "end": "00:06:43.600"
+        }
+      ]
+    }
+  ]
+}
